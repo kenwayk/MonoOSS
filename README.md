@@ -5,7 +5,7 @@ Welcome to the Mono Open Source Software (MonoOSS), a collection of tools and re
 - Plugins
 
 ## Getting started
-- [Developer Documentation](https://docs.mono.co.com/docs): Learn how to add payments into your product
+- [Developer Documentation](https://docs.mono.co.com/docs): Learn how to add data and payments features into your product
 - [API Reference](https://docs.mono.co/api): Expand your knowledge on the available APIs you can use to scale your products
 
 ## Sample apps
